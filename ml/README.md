@@ -1,11 +1,30 @@
-Machine Learning installation libraries
-=======================================
+Machine Learning libraries
+==========================
 
 These packages include machine learning libraries either based on pytorch or tensorflow.
+
+Recommended python>=3.6.8.
+
+
+Prerequisites
+-------------
+
+If you use ``conda`` and want to create new environment:
+
+```sh
+    conda create -n myenv python=3.6.8
+```
+
+then
+
+```sh
+    conda activate myenv
+```
 
 
 Installation
 ------------
+
 
 The easiest way to install these packages is using ``pip`` :
 
