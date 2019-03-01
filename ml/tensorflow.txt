@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+spacy
+nltk
+gensim
+tensorflow
+gpy
+edward
